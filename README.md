@@ -1,1 +1,1 @@
-# Coding-Temple-Exercises
+Coding-Temple-Exercises
